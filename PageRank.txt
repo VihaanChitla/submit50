@@ -1,0 +1,5 @@
+PageRank
+
+
+A PageRank is the rank of a link for when you search something
+e:g when you search google google.com pops up first because its PageRank is #1
