@@ -1,0 +1,5 @@
+Heredity
+
+PROBS["gene"] means the probabilaty if we know about the persons parents
+
+PROBS["trait"] means the probabilaty if they are exibiting the trait
