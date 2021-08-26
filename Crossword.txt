@@ -1,0 +1,5 @@
+Crossword
+
+assignment: is a dictionary where the keys are variables
+
+backtrack: The backtrack function should accept a partial assignment
